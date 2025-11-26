@@ -81,13 +81,3 @@ Contributing
 - Feel free to open issues or pull requests.
 - If adding scripts or datasets, try to keep raw data as source-of-truth in `data/raw/` and avoid checking generated outputs into the repository.
 
-License
--------
-- No explicit license is provided. Add a license file if you want to clarify reuse permissions.
-
-Contact
--------
-- Maintainer: repository owner (you). Add contact or repo URL in the header if desired.
-
-End of README
-------------
