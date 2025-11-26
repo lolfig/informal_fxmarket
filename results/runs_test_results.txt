@@ -1,0 +1,7 @@
+Test de Corridas de Wald-Wolfowitz (sobre diferencias de precio)
+
+           Serie   Z-stat  p-value  Runs  n+ (>= mediana)  n- (< mediana)
+    USD/CUP Sell  -8.2028      0.0   628              795             785
+Blue Dollar Sell -13.1125      0.0   274              630             370
+         EUR/USD  -8.7745      0.0   349              485             484
+

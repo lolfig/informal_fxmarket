@@ -1,0 +1,6 @@
+Test Lo-MacKinlay Variance Ratio (k=5)
+
+           Serie  VR(k=5)  Z-Homoskedastic  Z-Heteroskedastic  p-value Homo  p-value Hetero
+    USD/CUP Sell   1.4745           8.6089             1.3263        0.0000          0.1848
+Blue Dollar Sell   1.3264           4.7107             0.7124        0.0000          0.4762
+         EUR/USD   1.0723           1.0267             0.8604        0.3046          0.3896
